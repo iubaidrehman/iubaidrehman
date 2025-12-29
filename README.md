@@ -1,9 +1,9 @@
 # Hi, I'm Ubaid Ur Rehman 👋
 
 **Full-Stack Software Engineer** | .NET & React Specialist  
-Karachi, Pakistan · [Portfolio 🌐](https://iubaidrehman.vercel.app/) · [LinkedIn 💼](https://www.linkedin.com/in/ubaid-rehman®️-a9019719a/) · ubaidurrehman99913@gmail.com
+Karachi, Pakistan · [Portfolio 🌐](https://iubaidrehman.vercel.app/) · [LinkedIn 💼](https://www.linkedin.com/in/iubaidrehman/) · ubaidurrehman99913@gmail.com
 
-Full-stack engineer with 5+ years building secure, high-performance systems in **FinTech 💳**, digital banking, life sciences (MES 🧪), and automotive ERP 🚗.  
+Full-stack engineer with 5+ years building secure, high-performance systems in **FinTech 💳**, Digital Banking, Life Sciences (MES 🧪), and Automotive ERP 🚗.  
 
 Expert in .NET 8 microservices, React/React Native, PostgreSQL/SQL Server, Redis/RabbitMQ, and Azure.  
 
