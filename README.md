@@ -1,47 +1,76 @@
-# Hi, I'm Ubaid Ur Rehman 👋
+# ⚡ Hello World, I'm Ubaid Ur Rehman
 
-**Full-Stack Software Engineer** | .NET & React Specialist  
-Karachi, Pakistan · [Portfolio 🌐](https://iubaidrehman.vercel.app/) · [LinkedIn 💼](https://www.linkedin.com/in/iubaidrehman/) · ubaidurrehman99913@gmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=512BD4&center=true&vCenter=true&width=435&lines=Software+Architect;Senior+Full-Stack+Engineer;Academic+Visiting+Faculty;FinTech+%26+Banking+Expert" alt="Typing SVG" />
+</p>
 
-Full-stack engineer with 5+ years building secure, high-performance systems in **FinTech 💳**, Digital Banking, Life Sciences (MES 🧪), and Automotive ERP 🚗.  
+---
 
-Expert in .NET 8 microservices, React/React Native, PostgreSQL/SQL Server, Redis/RabbitMQ, and Azure.  
+### 🏛️ Professional Summary
+I am a **Software Architect** and **Senior Full-Stack Engineer** with a **Master’s in Software Engineering**. With 5+ years of experience in high-compliance sectors, I specialize in designing and implementing high-stakes, secure ecosystems for global enterprises.
 
-🔹 Delivered 60% faster APIs and scaled payment gateways/trading platforms  
-🔹 Microsoft Certified: Azure Developer Associate ☁️
+Most of my professional work resides in **private enterprise repositories** for Banking, FinTech, and Manufacturing sectors. I focus on delivering "Production-Grade" architecture that prioritizes security, scalability, and long-term maintainability.
 
-### 🛠 Tech Stack
+---
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### 🌐 Digital Footprint
+<p align="center">
+<a href="mailto:ubaidurrehman99913@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/iubaidrehman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/iubaidrehman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://iubaidrehman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
-Other tools: Entity Framework Core, Hangfire, Selenium/Playwright, Git, Azure DevOps
+---
 
-### 💼 Current Role
-**Full-Stack Developer** @ Contour Software (IDS)  
-04/2025 – Present  
-Building global dealership ERP features with .NET 6 APIs, React/TypeScript CRM, React Native mobile apps, PostgreSQL, RabbitMQ, Redis, and legacy WinForms.
+### 🚀 Technical Arsenal
 
-### 🔥 Selected Projects
-- **Easypaisa Retail Integration** 💰 — Enabled seamless cash-in/out via third-party API (Swich)
-- **Swich PayIn Optimization** ⚡ — Normalized DB, added read replica for scalability
-- **Trafix OMS** 📈 — FIX protocol mapping & advanced security for global trading
-- **Digital Banking (Meezan Bank)** 🏦 — FCY cards, CRM upgrades, zero-downtime data migrations
-- **IMEI Tracker** 📱 — PTA-compliant batch validation tool (10,000+ devices)
-- **Fixed Asset Management** — Oracle-based system with tuned performance
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,docker" /><br />
+      <b>Backend & Cloud</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind" /><br />
+      <b>Frontend & Web</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq" /><br />
+      <b>Data & Messaging</b>
+    </td>
+  </tr>
+</table>
 
-Details in pinned repos & my [portfolio](https://iubaidrehman.vercel.app/) 🚀
+---
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+### 🏗️ My Architectural Philosophy
+*While my core commercial code is proprietary, I strictly adhere to these industry-standard patterns:*
 
-Open to FinTech, backend, or full-stack opportunities. Let's connect! 👨‍💻
+- **Clean Architecture:** Strict separation of Concerns (Domain, Application, Infrastructure, and Presentation layers).
+- **Domain-Driven Design (DDD):** Aligning software design with complex business logic.
+- **Event-Driven Systems:** Utilizing RabbitMQ/Service Bus for decoupled Microservices.
+- **Security-First:** Implementation of OAuth2, OpenID Connect, and PCI-DSS compliant workflows.
+
+---
+
+### 🏆 Featured Architectural Impact
+* **💳 FinTech Payment Ecosystem:** Engineered high-volume cash-in/out integrations using .NET 8 and RabbitMQ for a major regional payment gateway.
+* **📈 Global Trading Systems:** Implemented FIX Protocol mappings and advanced security layers for an institutional Order Management System (OMS).
+* **🧪 Life Sciences MES:** Developed scalable manufacturing execution modules for multi-national pharmaceutical compliance.
+* **🏦 Digital Banking:** Lead developer for specialized currency card modules and zero-downtime data migrations for a leading private bank.
+
+---
+
+### 🎓 Academic Leadership
+**Visiting Faculty (Software Engineering)**
+> I teach the blueprints of the industry. My curriculum focuses on:
+> - **Software Architecture & Design Patterns** (SOLID, Microservices, DDD)
+> - **Web Engineering & Scalable API Design**
+> - **Cross-Platform Mobile App Development** (React Native)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
