@@ -1,15 +1,15 @@
 <div align="center">
 
-# ⚡ Ubaid ur Rehman (عبید الرحمن) | Software Architect
+# ⚡ Ubaid ur Rehman (عبید الرحمن) | Senior Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=512BD4&center=true&vCenter=true&width=550&lines=Software+Architect;Multi-Tenant+SaaS+Engineering;Legacy+System+Modernization;FinTech+%26+Enterprise+ERP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=512BD4&center=true&vCenter=true&width=550&lines=Senior+Software+Engineer;Full-Stack+.NET+%26+React;Legacy+System+Modernization;FinTech+%26+Enterprise+ERP" alt="Typing SVG" />
 
 <br/>
 
 ### 🏛️ Professional Summary
 *I transform complex business requirements into high-performance technical infrastructure.*
 
-I am a **Software Architect and Senior Engineer** specializing in designing and implementing high-stakes, secure ecosystems for global enterprises. While much of my commercial work resides in private enterprise repositories across the Dealership, FinTech, Banking, and Manufacturing sectors, my focus remains constant: delivering **production-grade architecture** that prioritizes security, scalability, multi-tenancy, and the modernization of complex legacy systems. 
+I am a **Senior Full-Stack Software Engineer** specializing in designing and implementing high-stakes, secure ecosystems for global enterprises. While much of my commercial work resides in private enterprise repositories across the Dealership, FinTech, Banking, and Manufacturing sectors, my focus remains constant: delivering **production-grade architecture** that prioritizes security, scalability, multi-tenancy, and the modernization of complex legacy systems. 
 
 <br/>
 
@@ -24,7 +24,7 @@ I am a **Software Architect and Senior Engineer** specializing in designing and 
 <br/>
 
 ### 🌐 Digital Footprint
-<a href="mailto:ubaidurrehman99913@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:i.ubaid.rehman@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 <a href="https://linkedin.com/in/iubaidrehman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/iubaidrehman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://iubaidrehman.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -68,9 +68,9 @@ I am a **Software Architect and Senior Engineer** specializing in designing and 
 
 ---
 
-### 🏆 Featured Architectural Impact
-* **🚙 Dealership Enterprise Systems:** Modernizing legacy infrastructure by architecting robust, scalable integrations between legacy Universe/Pick Basic databases and modern .NET 6+ environments.
-* **🏢 Multi-Tenant SaaS & ERP:** Architecting scalable, modular systems designed for isolation, performance, and cross-module communication (e.g., RaqamOS).
+### 🏆 Featured Engineering Impact
+* **🚙 Dealership Enterprise Systems:** Modernizing legacy infrastructure by building robust, scalable integrations between legacy Universe/Pick Basic databases and modern .NET 10 environments.
+* **🏢 Multi-Tenant SaaS & ERP:** Engineering scalable, modular systems designed for isolation, performance, and cross-module communication.
 * **💳 FinTech Payment Ecosystem:** Engineered high-volume integrations using .NET and RabbitMQ for major regional payment gateways.
 * **📈 Global Trading Systems:** Implemented FIX Protocol mappings and advanced security layers for an institutional Order Management System (OMS).
 * **🧪 Life Sciences MES:** Developed scalable manufacturing execution modules for multi-national pharmaceutical compliance.
