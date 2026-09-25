@@ -1,13 +1,13 @@
 <div align="center">
 
-# Ubaid ur Rehman
+# Hi, I'm Ubaid ur Rehman 👋
 
 عبید الرحمن
 
 <!-- Headline: change this line only. -->
 ### Full-Stack Software Developer
 
-Based in Karachi, Pakistan (PKT, UTC+5). Open to remote work with US, EU, and UK teams.
+Karachi, Pakistan · PKT (UTC+5)
 
 <p>
   <a href="mailto:i.ubaid.rehman@outlook.com"><img alt="Email i.ubaid.rehman@outlook.com" src="https://img.shields.io/badge/Email-i.ubaid.rehman%40outlook.com-0078D4?style=flat-square" /></a>
@@ -21,48 +21,43 @@ Based in Karachi, Pakistan (PKT, UTC+5). Open to remote work with US, EU, and UK
   <img alt="Open to remote work with US, EU, and UK teams" src="https://img.shields.io/badge/Remote-US_%C2%B7_EU_%C2%B7_UK-334155?style=flat-square" />
 </p>
 
-Building toward Software Architect.
-
 </div>
 
----
+I spend my days helping move a decades-old dealership ERP onto .NET and React. On the side, I teach Mobile App Development at Mohammad Ali Jinnah University.
 
-## Now
+I like explaining things. Some days that is a class. Some days it is a teammate and a system that has been running for a long time. Both jobs scratch the same itch.
 
-Most of my commercial work is in private repositories.
+## 🌱 Right now I'm
 
-**Contour Software (IDS)** · remote · since May 2025
+working on the IDS modernization, getting ready to teach Mobile App Development again this October, and learning more on the path toward software architecture.
 
-Contributing to IDS Astra G2, a dealership ERP being modernized from Rocket UniVerse / Pick Basic to .NET 10, React, and React Native (Expo). The Strangler Fig / Anti-Corruption Layer architecture was already in place before I joined.
+## 🎓 In the classroom
 
-- Owned the search side of a CRM-facing appointment API: day-level search, pagination, and per-location timezone caching.
-- Uses agentic AI tooling (Claude, Cursor) day to day, as part of a company-wide practice.
+I have been visiting faculty at MAJU since 2022, with a semester off now and then. I teach Mobile App Development, Software Architecture, Web Engineering, and Web Services, and I mentor final-year projects.
 
-## Earlier
+The part I enjoy is the explaining. A project that is still fuzzy gets clearer when you walk it through with someone, and I like being that someone.
 
-**Numbers (Pvt) Ltd / Swich** · 2025
+## 🔧 A few things I've helped build
 
-FinTech payments. CQRS dashboard work cut load time from about 60s to under 10s. Investigated and resolved a vendor-disputed PKR 3.5 million (about $12.5k) transaction discrepancy on a payment gateway.
+Most of my commercial work lives in private repositories. Here is the short version.
 
-**Reboot Technologies / Trafix** · 2024
+**An appointment search.** Since May 2025 I have been at Contour Software (IDS), working remotely. I am contributing to IDS Astra G2, a dealership ERP moving from Rocket UniVerse / Pick Basic to .NET 10, React, and React Native (Expo). The Strangler Fig / Anti-Corruption Layer was already in place before I joined. I owned the search side of a CRM-facing appointment API: day-level search, pagination, and caching for each location's timezone. I use Claude and Cursor day to day, as part of a company-wide practice.
 
-Trading OMS. Contributed to the .NET 4.8 to .NET 8 migration, FIX allocation accounts, and WPF.
+**A dashboard that took about a minute.** In 2025, at Numbers (Pvt) Ltd / Swich, I worked on payments. CQRS work on a dashboard cut the load time from about 60 seconds to under 10. I also investigated a vendor-disputed discrepancy of PKR 3.5 million (about $12.5k) on a payment gateway and helped get it resolved.
 
-**Avanza Solutions** · 2023–24
+**A check that became the standard.** At Avanza Solutions (2023–24) I helped with a zero-downtime migration of card and customer data, with 100% data integrity. I proposed validating against T24. That check became the standard for the later batches.
 
-Digital banking. Zero-downtime card and customer data migration with 100% data integrity. Proposed validation against T24, which became the standard for later batches.
+**Trafix.** In 2024, at Reboot Technologies, I contributed to a trading OMS: the move from .NET 4.8 to .NET 8, FIX allocation accounts, and WPF.
 
-**Contour Software / POMS** · 2021–23
+**POMSnet.** From 2021 to 2023 I was a Technical Consultant at Contour Software on a pharma MES-ERP.
 
-Pharma MES-ERP (POMSnet). Technical Consultant.
+## 💬 Let's talk
 
-## Teaching
+Ask me about .NET and React, legacy modernization, or teaching.
 
-Visiting Faculty at Mohammad Ali Jinnah University (MAJU) since September 2022 (current, with occasional semester breaks).
+If you are on a remote team in the US, EU, or UK, I would like to hear from you. Email, LinkedIn, X, and the site are at the top.
 
-Courses: Mobile App Development, Software Architecture, Web Engineering, and Web Services. Also final-year project mentoring.
-
-## Stack
+## 🧰 What I use
 
 <p>
   <picture>
@@ -70,6 +65,8 @@ Courses: Mobile App Development, Software Architecture, Web Engineering, and Web
     <img alt="C#, .NET, React, TypeScript, PostgreSQL, MongoDB, Redis, RabbitMQ, Azure, Docker, Jenkins, Jest" src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,postgres,mongodb,redis,rabbitmq,azure,docker,jenkins,jest&amp;perline=4&amp;theme=light" />
   </picture>
 </p>
+
+The icons are the quick look. The table is the full list.
 
 | Area | Technologies |
 | --- | --- |
@@ -81,7 +78,6 @@ Courses: Mobile App Development, Software Architecture, Web Engineering, and Web
 | Practices | Clean Architecture, DDD, CQRS, event-driven |
 | Testing | NUnit, Jest, Playwright |
 
-## Education
+## 📘 Background
 
-- BS and MS in Software Engineering, Mohammad Ali Jinnah University (MAJU)
-- Microsoft Certified: Azure Developer Associate (AZ-204), 2025
+BS and MS in Software Engineering, Mohammad Ali Jinnah University (MAJU). Microsoft Certified: Azure Developer Associate (AZ-204), 2025.
