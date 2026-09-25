@@ -24,10 +24,7 @@
 </p>
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,react,ts,postgres,mongodb,redis,rabbitmq,azure,docker,jenkins,jest&amp;perline=6&amp;theme=dark" />
-    <img alt="C#, .NET, React, TypeScript, PostgreSQL, MongoDB, Redis, RabbitMQ, Azure, Docker, Jenkins, Jest" src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,postgres,mongodb,redis,rabbitmq,azure,docker,jenkins,jest&amp;perline=6&amp;theme=light" />
-  </picture>
+  <img alt="C#, .NET, React, TypeScript, PostgreSQL, MongoDB, Redis, RabbitMQ, Azure, Docker, Jenkins, Jest" src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,postgres,mongodb,redis,rabbitmq,azure,docker,jenkins,jest&perline=6" />
 </p>
 
 </div>
