@@ -1,87 +1,87 @@
 <div align="center">
 
-# ⚡ Ubaid ur Rehman (عبید الرحمن) | Senior Software Engineer
+# Ubaid ur Rehman
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=512BD4&center=true&vCenter=true&width=550&lines=Senior+Software+Engineer;Full-Stack+.NET+%26+React;Legacy+System+Modernization;FinTech+%26+Enterprise+ERP" alt="Typing SVG" />
+عبید الرحمن
 
-<br/>
+<!-- Headline: change this line only. -->
+### Full-Stack Software Developer
 
-### 🏛️ Professional Summary
-*I transform complex business requirements into high-performance technical infrastructure.*
+Based in Karachi, Pakistan (PKT, UTC+5). Open to remote work with US, EU, and UK teams.
 
-I am a **Senior Full-Stack Software Engineer** specializing in designing and implementing high-stakes, secure ecosystems for global enterprises. While much of my commercial work resides in private enterprise repositories across the Dealership, FinTech, Banking, and Manufacturing sectors, my focus remains constant: delivering **production-grade architecture** that prioritizes security, scalability, multi-tenancy, and the modernization of complex legacy systems. 
-
-<br/>
-
-### 🌍 Global Operations & Timezones
-*Based in Karachi, Pakistan. Collaborating across global environments.*
-
-<img src="https://img.shields.io/badge/Local_Time_(PKT)-UTC%2B5-512BD4?style=for-the-badge&logo=clock&logoColor=white" />
-<img src="https://img.shields.io/badge/London_(GMT%2FBST)-UTC%2B0-000000?style=for-the-badge&logo=googleearth&logoColor=white" />
-<img src="https://img.shields.io/badge/New_York_(EST)-UTC--5-000000?style=for-the-badge&logo=googleearth&logoColor=white" />
-<img src="https://img.shields.io/badge/Toronto_(EST)-UTC--5-000000?style=for-the-badge&logo=googleearth&logoColor=white" />
-
-<br/>
-
-### 🌐 Digital Footprint
-<a href="mailto:i.ubaid.rehman@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-<a href="https://linkedin.com/in/iubaidrehman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/iubaidrehman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://iubaidrehman.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Technical Arsenal
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,docker" /><br />
-      <b>Backend & Cloud</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind" /><br />
-      <b>Frontend & Web</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq" /><br />
-      <b>Data & Messaging</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-### 🏗️ My Architectural Philosophy
-> *I strictly adhere to these industry-standard patterns to build resilient systems:*
-
-- **Clean Architecture:** Strict separation of Concerns (Domain, Application, Infrastructure, and Presentation layers).
-- **Domain-Driven Design (DDD):** Aligning software design with complex business logic.
-- **Event-Driven Systems:** Utilizing RabbitMQ/Service Bus for decoupled microservices and modular monoliths.
-- **Security-First:** Implementation of OAuth2, OpenID Connect, and high-compliance workflows.
-
----
-
-### 🏆 Featured Engineering Impact
-* **🚙 Dealership Enterprise Systems:** Modernizing legacy infrastructure by building robust, scalable integrations between legacy Universe/Pick Basic databases and modern .NET 10 environments.
-* **🏢 Multi-Tenant SaaS & ERP:** Engineering scalable, modular systems designed for isolation, performance, and cross-module communication.
-* **💳 FinTech Payment Ecosystem:** Engineered high-volume integrations using .NET and RabbitMQ for major regional payment gateways.
-* **📈 Global Trading Systems:** Implemented FIX Protocol mappings and advanced security layers for an institutional Order Management System (OMS).
-* **🧪 Life Sciences MES:** Developed scalable manufacturing execution modules for multi-national pharmaceutical compliance.
-
----
-
-### 💡 Mentorship & Industry Leadership
-With over 4 years of experience as university faculty teaching software engineering, I am deeply committed to bridging the gap between academic theory and enterprise reality. My drive as an engineer is rooted in service—working tirelessly to evolve, build successful systems, and provide genuine value to the community. Whether I am mentoring junior engineers, modernizing legacy ecosystems, or architecting modular SaaS platforms, my philosophy centers on continuous learning, structural discipline, and raising the industry standard for the next generation.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=100&section=footer" />
+<p>
+  <a href="mailto:i.ubaid.rehman@outlook.com"><img alt="Email i.ubaid.rehman@outlook.com" src="https://img.shields.io/badge/Email-i.ubaid.rehman%40outlook.com-0078D4?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/iubaidrehman/"><img alt="LinkedIn iubaidrehman" src="https://img.shields.io/badge/LinkedIn-iubaidrehman-0A66C2?style=flat-square" /></a>
+  <a href="https://x.com/iubaidrehman"><img alt="X @iubaidrehman" src="https://img.shields.io/badge/X-%40iubaidrehman-000000?style=flat-square" /></a>
+  <a href="https://www.iubaidrehman.com"><img alt="Website www.iubaidrehman.com" src="https://img.shields.io/badge/Website-www.iubaidrehman.com-111827?style=flat-square" /></a>
 </p>
+
+<p>
+  <img alt="Karachi, PKT, UTC+5" src="https://img.shields.io/badge/Karachi-PKT_%C2%B7_UTC%2B5-512BD4?style=flat-square" />
+  <img alt="Open to remote work with US, EU, and UK teams" src="https://img.shields.io/badge/Remote-US_%C2%B7_EU_%C2%B7_UK-334155?style=flat-square" />
+</p>
+
+Building toward Software Architect.
+
+</div>
+
+---
+
+## Now
+
+Most of my commercial work is in private repositories.
+
+**Contour Software (IDS)** · remote · since May 2025
+
+Contributing to IDS Astra G2, a dealership ERP being modernized from Rocket UniVerse / Pick Basic to .NET 10, React, and React Native (Expo). The Strangler Fig / Anti-Corruption Layer architecture was already in place before I joined.
+
+- Owned the search side of a CRM-facing appointment API: day-level search, pagination, and per-location timezone caching.
+- Uses agentic AI tooling (Claude, Cursor) day to day, as part of a company-wide practice.
+
+## Earlier
+
+**Numbers (Pvt) Ltd / Swich** · 2025
+
+FinTech payments. CQRS dashboard work cut load time from about 60s to under 10s. Investigated and resolved a vendor-disputed PKR 3.5 million (about $12.5k) transaction discrepancy on a payment gateway.
+
+**Reboot Technologies / Trafix** · 2024
+
+Trading OMS. Contributed to the .NET 4.8 to .NET 8 migration, FIX allocation accounts, and WPF.
+
+**Avanza Solutions** · 2023–24
+
+Digital banking. Zero-downtime card and customer data migration with 100% data integrity. Proposed validation against T24, which became the standard for later batches.
+
+**Contour Software / POMS** · 2021–23
+
+Pharma MES-ERP (POMSnet). Technical Consultant.
+
+## Teaching
+
+Visiting Faculty at Mohammad Ali Jinnah University (MAJU) since September 2022 (current, with occasional semester breaks).
+
+Courses: Mobile App Development, Software Architecture, Web Engineering, and Web Services. Also final-year project mentoring.
+
+## Stack
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,react,ts,postgres,mongodb,redis,rabbitmq,azure,docker,jenkins,jest&amp;perline=4&amp;theme=dark" />
+    <img alt="C#, .NET, React, TypeScript, PostgreSQL, MongoDB, Redis, RabbitMQ, Azure, Docker, Jenkins, Jest" src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,postgres,mongodb,redis,rabbitmq,azure,docker,jenkins,jest&amp;perline=4&amp;theme=light" />
+  </picture>
+</p>
+
+| Area | Technologies |
+| --- | --- |
+| Backend | C#, .NET 6 / 8 / 10, ASP.NET Core, Web API, Blazor |
+| Web and mobile | React, React Native (Expo), TypeScript |
+| Data | PostgreSQL, SQL Server, Oracle, MongoDB, Redis |
+| Integration | RabbitMQ, Hangfire, EF Core, Dapper |
+| Cloud and delivery | Azure, Docker, Azure DevOps, Jenkins |
+| Practices | Clean Architecture, DDD, CQRS, event-driven |
+| Testing | NUnit, Jest, Playwright |
+
+## Education
+
+- BS and MS in Software Engineering, Mohammad Ali Jinnah University (MAJU)
+- Microsoft Certified: Azure Developer Associate (AZ-204), 2025
