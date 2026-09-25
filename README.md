@@ -1,13 +1,15 @@
-<div align="center">
+<p align="center">
+  <img alt="Ubaid ur Rehman" src="https://capsule-render.vercel.app/api?type=wave&color=512BD4&height=180&section=header&text=Ubaid%20ur%20Rehman&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=none" />
+</p>
 
-# Hi, I'm Ubaid ur Rehman 👋
+<div align="center">
 
 عبید الرحمن
 
 <!-- Headline: change this line only. -->
 ### Full-Stack Software Developer
 
-Karachi, Pakistan · PKT (UTC+5)
+.NET · React · Legacy modernization · Teaching at MAJU
 
 <p>
   <a href="mailto:i.ubaid.rehman@outlook.com"><img alt="Email i.ubaid.rehman@outlook.com" src="https://img.shields.io/badge/Email-i.ubaid.rehman%40outlook.com-0078D4?style=flat-square" /></a>
@@ -23,61 +25,47 @@ Karachi, Pakistan · PKT (UTC+5)
 
 </div>
 
-I spend my days helping move a decades-old dealership ERP onto .NET and React. On the side, I teach Mobile App Development at Mohammad Ali Jinnah University.
+## Current · Contour Software (IDS) · since May 2025 · remote
 
-I like explaining things. Some days that is a class. Some days it is a teammate and a system that has been running for a long time. Both jobs scratch the same itch.
-
-## 🌱 Right now I'm
-
-working on the IDS modernization, getting ready to teach Mobile App Development again this October, and learning more on the path toward software architecture.
-
-## 🎓 In the classroom
-
-I have been visiting faculty at MAJU since 2022, with a semester off now and then. I teach Mobile App Development, Software Architecture, Web Engineering, and Web Services, and I mentor final-year projects.
-
-The part I enjoy is the explaining. A project that is still fuzzy gets clearer when you walk it through with someone, and I like being that someone.
-
-## 🔧 A few things I've helped build
-
-Most of my commercial work lives in private repositories. Here is the short version.
-
-**An appointment search.** Since May 2025 I have been at Contour Software (IDS), working remotely. I am contributing to IDS Astra G2, a dealership ERP moving from Rocket UniVerse / Pick Basic to .NET 10, React, and React Native (Expo). The Strangler Fig / Anti-Corruption Layer was already in place before I joined. I owned the search side of a CRM-facing appointment API: day-level search, pagination, and caching for each location's timezone. I use Claude and Cursor day to day, as part of a company-wide practice.
-
-**A dashboard that took about a minute.** In 2025, at Numbers (Pvt) Ltd / Swich, I worked on payments. CQRS work on a dashboard cut the load time from about 60 seconds to under 10. I also investigated a vendor-disputed discrepancy of PKR 3.5 million (about $12.5k) on a payment gateway and helped get it resolved.
-
-**A check that became the standard.** At Avanza Solutions (2023–24) I helped with a zero-downtime migration of card and customer data, with 100% data integrity. I proposed validating against T24. That check became the standard for the later batches.
-
-**Trafix.** In 2024, at Reboot Technologies, I contributed to a trading OMS: the move from .NET 4.8 to .NET 8, FIX allocation accounts, and WPF.
-
-**POMSnet.** From 2021 to 2023 I was a Technical Consultant at Contour Software on a pharma MES-ERP.
-
-## 💬 Let's talk
-
-Ask me about .NET and React, legacy modernization, or teaching.
-
-If you are on a remote team in the US, EU, or UK, I would like to hear from you. Email, LinkedIn, X, and the site are at the top.
-
-## 🧰 What I use
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,react,ts,postgres,mongodb,redis,rabbitmq,azure,docker,jenkins,jest&amp;perline=4&amp;theme=dark" />
-    <img alt="C#, .NET, React, TypeScript, PostgreSQL, MongoDB, Redis, RabbitMQ, Azure, Docker, Jenkins, Jest" src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,postgres,mongodb,redis,rabbitmq,azure,docker,jenkins,jest&amp;perline=4&amp;theme=light" />
-  </picture>
+<p align="center">
+  <img alt="Rocket UniVerse" src="https://img.shields.io/badge/Rocket_UniVerse-6B7280?style=flat-square" />
+  <img alt="Pick Basic" src="https://img.shields.io/badge/Pick_Basic-6B7280?style=flat-square" />
+  &nbsp;&rarr;&nbsp;
+  <img alt=".NET 10" src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-512BD4?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-512BD4?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-512BD4?style=flat-square" />
 </p>
 
-The icons are the quick look. The table is the full list.
+IDS Astra G2, dealership ERP. Modernization from Rocket UniVerse / Pick Basic to .NET 10, React, React Native.
 
-| Area | Technologies |
-| --- | --- |
-| Backend | C#, .NET 6 / 8 / 10, ASP.NET Core, Web API, Blazor |
-| Web and mobile | React, React Native (Expo), TypeScript |
-| Data | PostgreSQL, SQL Server, Oracle, MongoDB, Redis |
-| Integration | RabbitMQ, Hangfire, EF Core, Dapper |
-| Cloud and delivery | Azure, Docker, Azure DevOps, Jenkins |
-| Practices | Clean Architecture, DDD, CQRS, event-driven |
-| Testing | NUnit, Jest, Playwright |
+## Other work
 
-## 📘 Background
+| Years | Company | Domain | Stack |
+| --- | --- | --- | --- |
+| 2025 | Numbers (Pvt) Ltd (Swich) | FinTech payments | .NET, CQRS, RabbitMQ |
+| 2024 | Reboot Technologies (Trafix) | Trading OMS | .NET 8, WPF, FIX |
+| 2023-24 | Avanza Solutions | Digital banking | .NET, data migration, T24 |
+| 2021-23 | Contour Software (POMS) | Pharma MES-ERP | POMSnet |
 
-BS and MS in Software Engineering, Mohammad Ali Jinnah University (MAJU). Microsoft Certified: Azure Developer Associate (AZ-204), 2025.
+## Teaching
+
+Visiting Faculty, MAJU, since 2022
+
+Mobile App Development · Software Architecture · Web Engineering · Web Services
+
+Final-year project mentoring.
+
+## Stack
+
+<p align="center">
+  <img alt="C#, .NET, React, TypeScript, PostgreSQL, MongoDB, Redis, RabbitMQ, Azure, Docker, Jenkins, Jest" src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,postgres,mongodb,redis,rabbitmq,azure,docker,jenkins,jest&perline=6" />
+</p>
+
+Also: ASP.NET Core, Web API, Blazor, React Native (Expo), SQL Server, Oracle, Hangfire, EF Core, Dapper, Azure DevOps, NUnit, Playwright. Clean Architecture, DDD, CQRS, event-driven.
+
+## Record
+
+BS and MS Software Engineering, MAJU · Microsoft Certified: Azure Developer Associate (AZ-204), 2025
+
+Most commercial work is in private repositories.
