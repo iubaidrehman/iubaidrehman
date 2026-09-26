@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Ubaid Ur Rehman" src="https://capsule-render.vercel.app/api?type=wave&color=512BD4&height=180&section=header&text=Ubaid%20ur%20Rehman&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=none" />
+  <img alt="Ubaid Ur Rehman" src="https://capsule-render.vercel.app/api?type=wave&color=512BD4&height=180&section=header&text=Ubaid%20Ur%20Rehman&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=none" />
 </p>
 
 <div align="center">
